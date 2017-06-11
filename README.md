@@ -1,0 +1,1 @@
+# elgg_german_language_pack
